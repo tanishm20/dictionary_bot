@@ -1,5 +1,5 @@
 "# dictionary_bot" 
-my bot helps to find meaning and images of word also it translates the word in other language
+my bot helps to find meaning and link of image of word also it translates the word in other language
 you can write like
 * meaning of rain
 * image of rain
