@@ -20,7 +20,7 @@ def sms_reply():
     # Create reply
     resp = MessagingResponse()
     R1=resp.message(fetch_reply(msg, sender))
-    R1.media("https://bloximages.newyork1.vip.townnews.com/theadvocate.com/content/tncms/assets/v3/editorial/2/19/2190d8b6-d670-5edf-b0ca-b1e7570932b5/5cf92cd90e0ba.image.jpg?crop=1224%2C1224%2C234%2C0&resize=1224%2C1224&order=crop%2Cresize.jpg")
+    R1.media("https://cdn.shopify.com/s/files/1/0885/7466/products/smiley-decal_740x.png?v=1537890800.jpg")
     return str(resp)
 
 if __name__ == "__main__":
